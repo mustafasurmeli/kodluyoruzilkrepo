@@ -3,10 +3,12 @@ Bu repo kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 ![](https://picsum.photos/200/300)
 # Installation
 Öncellikle projeyi clonelayın.
+
 `git clone https://github.com/mustafasurmeli/kodluyoruzilkrepo.git`
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-Linux için
+Linux için:
+
 `cd kodluyoruzilkrepo`
 `code .`
 # Contributing
